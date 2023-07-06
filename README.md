@@ -1,3 +1,2 @@
-# Assignment_1 :
+# RTOS Tasks
 
-https://drive.google.com/drive/folders/1b5STn9uEqfqhT1GDM-rl53qdClsScAOB
